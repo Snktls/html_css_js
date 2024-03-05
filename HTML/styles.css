@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 125px;
+    margin: 1px;
+    border: solid black thin;
+    text-align: center;
+}
+
+nav {
+    padding: 20px;
+    margin: 1px;
+    border: solid black thin;
+    text-align: center;
+}
+
+article {
+    padding: 150px;
+    margin: 1px;
+    border: solid black thin;
+    text-align: center;
+}
+
+section {
+    padding: 175px;
+    margin: 1px;
+    border: solid black thin;
+    text-align: center;
+}
+
+footer {
+    padding: 300px;
+    margin: 1px;
+    border: solid black thin;
+    text-align: center;
+}
